@@ -1,0 +1,55 @@
+RecordME 个人非商业使用许可 / Personal Non-Commercial Use License
+版本 / Version: 1.0
+生效日期 / Effective date: 2026-10-21
+Copyright (c) 2026 RecordME 权利人 / rights holders. All rights reserved.
+授权联系 / Licensing contact: maxleolee@gmail.com
+
+中文条款（与英文不一致时以中文为准，适用法律另有强制规定的除外）
+
+1. 许可范围
+在你遵守本许可的条件下，RecordME 权利人授予你有限的、非独占的、不可转让、不可再许可的许可，仅用于在你拥有或控制的兼容 Mac 上安装、运行官方发布的未修改 RecordME 二进制版本，供个人非商业用途使用。你可以为该用途保留合理数量的个人备份。
+
+本许可适用于本仓库所列 RecordME 官方二进制发布文件（包括 1.4.13 构建 35）、随附文档及产品素材。本许可不授予应用源代码访问权。将来版本可采用另行公布的许可；不得以未来条款追溯扩大本版本义务。
+
+2. 非商业用途
+仅限个人、非经营、非获利活动。未经权利人事先书面许可，不得用于公司、机构或职业工作，不得用于经营、收费服务、面向客户的交付、付费培训、广告推广、变现内容制作或其他直接或间接商业利益活动。免费提供产品本身不等于授予商业使用权。需要这些用途时，请先联系授权邮箱取得书面许可。
+
+3. 禁止事项
+除本许可明确允许或适用法律强制允许的情形外，未经事先书面许可，不得：
+（a）修改、翻译、改编、修补软件或创建衍生产品；
+（b）反编译、反汇编、反向工程、提取源代码、绕过授权或技术保护措施；
+（c）出售、出租、再许可、转让、镜像、重新打包或再分发软件与产品素材；
+（d）移除、更改或隐藏版权、签名、商标及许可声明；
+（e）使用 RecordME 名称、图标或其他标识使人误认为获得官方认可。
+你可以分享官方产品页或官方下载链接。
+
+4. 权利保留与第三方组件
+软件、文档、商标及产品素材的权利归各自权利人所有，未明确授予的权利均予保留。本许可不是开源许可。系统框架及任何第三方组件仍受各自条款约束；本许可不限制第三方许可授予的权利，也不排除适用法律下不可放弃的例外、消费者权利或互操作权利。
+
+公开仓库文档的浏览、平台内存储和平台内 fork 仍受 GitHub 服务条款约束；这些平台权限不构成修改或商业使用 RecordME 应用的授权。
+
+5. 用户内容与反馈
+你创作的录像及其他内容仍归你或原权利人所有，本许可不因使用软件而取得这些内容的权利。你应确保有权录制、保存和分享有关内容，并取得适用的同意。
+你主动提交 Bug 时，允许维护者为复现、修复和答复该问题使用所提交的报告与必要附件；这不要求提交应用源码或完整录像，也不要求转让你内容的所有权。请不要提交无权分享的内容。
+
+6. 无担保与责任限制
+在适用法律允许的最大范围内，软件按“现状”和“可用”提供，不承诺无错误、不间断、适用于特定目的或不丢失数据。请保留重要数据备份。在法律允许的范围内，权利人不对使用或无法使用软件导致的间接损失、利润损失或数据损失承担责任。本条不排除法律禁止排除的责任，也不限制不可放弃的法定权利。
+
+7. 终止
+违反本许可将终止本许可授予的权限；此后应停止使用并删除持有的软件副本，但不要求删除你合法拥有的录像或其他用户内容。另行取得的书面授权按其条款执行。条款部分无效不影响其余条款在法律允许范围内的效力。
+
+English reference translation
+
+1. Grant. Subject to this license, the RecordME rights holders grant you a limited, non-exclusive, non-transferable, non-sublicensable right to install and run official, unmodified RecordME binaries on compatible Macs you own or control, solely for personal, non-commercial use. Reasonable personal backup copies are permitted. This license covers the official RecordME binaries identified in this repository, including version 1.4.13 build 35, accompanying documentation and product assets. No application source-code access is granted. Future licenses do not retroactively expand obligations for this version.
+
+2. Non-commercial use. Use must be personal and unrelated to business or profit. Company, institutional or professional work, business operations, paid services, customer deliverables, paid training, advertising, monetized content and other direct or indirect commercial-benefit activities require prior written permission from the rights holders. Free availability does not grant commercial-use rights. Contact maxleolee@gmail.com for separate written authorization.
+
+3. Restrictions. Except as expressly allowed here or mandatorily permitted by applicable law, you may not modify, adapt, patch, translate or create derivative works; reverse engineer, decompile, disassemble, extract source code or bypass protections; sell, rent, sublicense, transfer, mirror, repackage or redistribute the software or product assets; remove or alter rights notices or signatures; or imply official endorsement using the product name or marks. Sharing links to the official product page or downloads is permitted.
+
+4. Reserved and third-party rights. All ungranted rights are reserved by their respective holders. This is not an open-source license. System frameworks and third-party components remain governed by their own terms. Mandatory legal exceptions, non-waivable consumer rights and rights under third-party licenses are preserved. Viewing, platform storage and platform forking of public repository documents remain subject to GitHub's Terms of Service and do not grant permission to modify or commercially use the RecordME application.
+
+5. Content and reports. Your recordings and other content remain yours or their original holders'. You are responsible for the right and consent to record and share. Voluntary bug reports may be used by maintainers as necessary to reproduce, fix and respond to the reported issue; no transfer of ownership, application source or complete recordings is required. Do not submit content you have no right to share.
+
+6. Disclaimer. To the maximum extent permitted by law, the software is provided AS IS and AS AVAILABLE without warranties of uninterrupted operation, fitness, error-free behavior or data preservation. Back up important data. To the extent permitted by law, rights holders are not liable for indirect damages, lost profits or data loss arising from use or inability to use the software. Non-excludable liabilities and statutory rights remain unaffected.
+
+7. Termination. Breach terminates the permissions granted here. Stop use and delete software copies; lawful user recordings need not be deleted. Separate written authorizations follow their own terms. Invalid provisions do not invalidate the remaining enforceable provisions. The Chinese text controls in case of inconsistency, subject to mandatory applicable law.

@@ -25,7 +25,7 @@ macOS 原生录像与录屏工具，将屏幕、摄像头和声音组合成一�
 ## 下载与安装
 
 1. 阅读[使用许可](LICENSE.txt)。当前仅授权个人非商业使用；工作、经营、付费内容制作等商业用途需另行获得书面许可。
-2. 从 [Releases](https://github.com/maxleolee-eng/RecordME/releases/latest) 下载 `RecordME-1.4.13-universal-signed.dmg`，打开后将 `RecordME-1.4.13.app` 拖入“应用程序”。也可下载 ZIP，解压后将同名应用移入“应用程序”。安装后可将应用名称改为 `RecordME.app`。
+2. 从 [Releases](https://github.com/maxleolee-eng/RecordME/releases/latest) 下载 `RecordME-1.4.13-universal-signed.dmg`，打开后将 `RecordME-1.4.13.app` 拖入“应用程序”。安装后可将应用名称改为 `RecordME.app`。应用安装包仅提供 DMG，不提供 ZIP。
 3. 从“应用程序”启动 RecordME，按需授予录屏、摄像头、麦克风权限。地点水印需要额外定位授权。
 4. 选择来源与布局，点击开始。停止后在日历窗口查看保存结果。
 

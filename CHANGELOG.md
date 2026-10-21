@@ -7,7 +7,7 @@ GitHub 首次发布对应现有 1.4.13（35）直接分发包，不重新编译�
 - 录制与暂停期间可主动打开日历和设置，录制参数及设备选择仍按状态锁定。
 - 通过 ScreenCaptureKit 排除 RecordME 自身窗口，包括预览、胶囊、设置和录像列表；实际效果以录制结果为准。
 - 保留屏幕/摄像头组合录制、麦克风与系统声音混音、暂停继续、可选无人暂停、时间/地点水印、日历管理和分段恢复等功能。
-- 提供 Apple Silicon / Intel 通用 DMG 与 ZIP，使用 Developer ID 签名；App 与 DMG 均附加 Apple 公证票据。
+- 仅提供 Apple Silicon / Intel 通用 DMG 安装包，使用 Developer ID 签名；App 与 DMG 均附加 Apple 公证票据。不再提供 ZIP 安装包。
 - GitHub 发布新增产品说明、个人非商业使用许可、隐私与依赖说明、Bug 模板及校验和。
 
 详细安装说明与边界见 [本版说明](release-notes/v1.4.13.md)。

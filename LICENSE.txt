@@ -1,8 +1,10 @@
 RecordME 个人非商业使用许可 / Personal Non-Commercial Use License
-版本 / Version: 1.0
-生效日期 / Effective date: 2026-10-21
+版本 / Version: 1.1
+生效日期 / Effective date: 2026-10-24
 Copyright (c) 2026 RecordME 权利人 / rights holders. All rights reserved.
 授权联系 / Licensing contact: maxleolee@gmail.com
+
+修订说明：v1.1 将 v1.0 已包含的“禁止修改、改编和衍生产品”进一步明确为禁止二次开发、换皮、魔改、功能或界面改版及其发布。v1.0 已包含相同核心限制；对已经合法取得的副本，仍以取得时适用的条款和适用法律为准。
 
 中文条款（与英文不一致时以中文为准，适用法律另有强制规定的除外）
 
@@ -16,7 +18,7 @@ Copyright (c) 2026 RecordME 权利人 / rights holders. All rights reserved.
 
 3. 禁止事项
 除本许可明确允许或适用法律强制允许的情形外，未经事先书面许可，不得：
-（a）修改、翻译、改编、修补软件或创建衍生产品；
+（a）以任何方式修改、翻译、改编或修补软件，进行二次开发、换皮、魔改、增删功能、替换界面或品牌，或制作、展示、发布任何改版或衍生产品，无论是否收费、是否公开分发；
 （b）反编译、反汇编、反向工程、提取源代码、绕过授权或技术保护措施；
 （c）出售、出租、再许可、转让、镜像、重新打包或再分发软件与产品素材；
 （d）移除、更改或隐藏版权、签名、商标及许可声明；
@@ -40,11 +42,13 @@ Copyright (c) 2026 RecordME 权利人 / rights holders. All rights reserved.
 
 English reference translation
 
+Revision note. Version 1.1 clarifies the version 1.0 restrictions on modification, adaptation and derivative works by expressly covering secondary development, reskinning, unofficial modifications, feature or interface revisions, and publication of altered versions. Version 1.0 already contained the same core restrictions. Copies lawfully obtained earlier remain governed by the terms applicable when obtained and by applicable law.
+
 1. Grant. Subject to this license, the RecordME rights holders grant you a limited, non-exclusive, non-transferable, non-sublicensable right to install and run official, unmodified RecordME binaries on compatible Macs you own or control, solely for personal, non-commercial use. Reasonable personal backup copies are permitted. This license covers the official RecordME binaries identified in this repository, including version 1.4.13 build 35, accompanying documentation and product assets. No application source-code access is granted. Future licenses do not retroactively expand obligations for this version.
 
 2. Non-commercial use. Use must be personal and unrelated to business or profit. Company, institutional or professional work, business operations, paid services, customer deliverables, paid training, advertising, monetized content and other direct or indirect commercial-benefit activities require prior written permission from the rights holders. Free availability does not grant commercial-use rights. Contact maxleolee@gmail.com for separate written authorization.
 
-3. Restrictions. Except as expressly allowed here or mandatorily permitted by applicable law, you may not modify, adapt, patch, translate or create derivative works; reverse engineer, decompile, disassemble, extract source code or bypass protections; sell, rent, sublicense, transfer, mirror, repackage or redistribute the software or product assets; remove or alter rights notices or signatures; or imply official endorsement using the product name or marks. Sharing links to the official product page or downloads is permitted.
+3. Restrictions. Except as expressly allowed here or mandatorily permitted by applicable law, you may not modify, translate, adapt or patch the software in any way; perform secondary development, reskinning or unofficial modification; add or remove features; replace its interface or branding; or make, display or publish any altered version or derivative work, whether paid or unpaid and whether distributed publicly or privately. You may not reverse engineer, decompile, disassemble, extract source code or bypass protections; sell, rent, sublicense, transfer, mirror, repackage or redistribute the software or product assets; remove or alter rights notices or signatures; or imply official endorsement using the product name or marks. Sharing links to the official product page or downloads is permitted.
 
 4. Reserved and third-party rights. All ungranted rights are reserved by their respective holders. This is not an open-source license. System frameworks and third-party components remain governed by their own terms. Mandatory legal exceptions, non-waivable consumer rights and rights under third-party licenses are preserved. Viewing, platform storage and platform forking of public repository documents remain subject to GitHub's Terms of Service and do not grant permission to modify or commercially use the RecordME application.
 

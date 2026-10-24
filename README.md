@@ -57,10 +57,10 @@ shasum -a 256 RecordME-1.4.13-universal-signed.dmg
 
 本仓库只发布产品文档、许可、反馈模板与版本记录。可运行文件通过 Releases 提供。应用源码、构建脚本、测试、内部记录、签名私钥和开发历史不公开，也不接收代码贡献。
 
-这是闭源专有软件，采用[个人非商业使用许可](LICENSE.txt)，禁止未经授权的修改、衍生、转售和商业使用。许可证不提供技术防破解保证，适用法律的强制例外仍有效。
+这是闭源专有软件，采用[个人非商业使用许可](LICENSE.txt)，禁止未经授权的商业使用、修改、二次开发、换皮、魔改、功能或界面改版、衍生、重新打包、再分发和转售。许可证不提供技术防破解保证，适用法律的强制例外仍有效。
 
 GitHub 会自动显示本仓库的 ZIP/TAR 下载与平台操作入口；其中只有本仓库的公开文档，不含 RecordME 应用源码。
 
 ---
 
-RecordME is a native macOS screen and camera recorder. Requires macOS 14+, supports Apple Silicon and Intel. Download signed and notarized builds from [Releases](https://github.com/maxleolee-eng/RecordME/releases/latest). This is a binary distribution and support repository; application source code is private. Personal, non-commercial use only. Modification, derivative works, redistribution and commercial use require written permission. Read [LICENSE.txt](LICENSE.txt) before use.
+RecordME is a native macOS screen and camera recorder. Requires macOS 14+, supports Apple Silicon and Intel. Download signed and notarized builds from [Releases](https://github.com/maxleolee-eng/RecordME/releases/latest). This is a binary distribution and support repository; application source code is private. Personal, non-commercial use only. Modification, secondary development, reskinning, altered versions, derivative works, redistribution and commercial use require written permission. Read [LICENSE.txt](LICENSE.txt) before use.
